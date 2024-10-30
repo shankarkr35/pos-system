@@ -1,0 +1,1 @@
+<h5>VIR Registration OTP : <?php echo $otp;?></h5>
